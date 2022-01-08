@@ -1,7 +1,7 @@
 import os, sys
 from colorama import Fore
 
-ver = "one α"
+ver = "one β"
 ## TODO: change next to stable when Elements One gets released
 branch = "next"
 
@@ -139,5 +139,3 @@ elif sys.argv[1] in "show":
         print("Repository: " + local_repo_contains)
 else:
     print(sys.argv[1] + ": Command Not found.")
-
-## TODO: Warcrimes in Croatia
