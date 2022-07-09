@@ -1,2 +1,2 @@
-# Archived and unmaintained version for searching packages.
+# Archived and unmaintained package for searching packages.
 # Not needed anymore.
